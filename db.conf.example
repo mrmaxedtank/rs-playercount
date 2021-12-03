@@ -1,0 +1,11 @@
+[test]
+host=localhost
+user=
+password=
+db_name=rs_test
+
+[prod]
+host=localhost
+user=
+password=
+db_name=rs
